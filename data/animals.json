@@ -126,6 +126,25 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Testy",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Dumb",
+      "species": "Sheep",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
